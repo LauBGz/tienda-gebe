@@ -1,6 +1,8 @@
-# Ejercicio3TiendaGEBE
-
+# tienda-gebe
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+
+## Screenshots
+![Example main view](https://res.cloudinary.com/duiyyjgey/image/upload/v1586959739/repos/Ejercicio3TiendaGEBE_irix2c.png)
 
 ## Development server
 
