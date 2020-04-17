@@ -1,12 +1,9 @@
 # tienda-gebe
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
-## Screenshots
-![Example main view](https://res.cloudinary.com/duiyyjgey/image/upload/v1586959739/repos/Ejercicio3TiendaGEBE_irix2c.png)
+## Deploy
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Deploy on [GitHub Pages]()
 
 ## Code scaffolding
 
