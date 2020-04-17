@@ -1,6 +1,9 @@
 # tienda-gebe
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
+## Screenshoot
+(https://res.cloudinary.com/duiyyjgey/image/upload/v1586959739/repos/Ejercicio3TiendaGEBE_irix2c.png)
+
 ## Deploy
 
 Deploy on [GitHub Pages](https://laubgz.github.io/tienda-gebe/)
