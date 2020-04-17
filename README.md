@@ -3,7 +3,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Deploy
 
-Deploy on [GitHub Pages]()
+Deploy on [GitHub Pages](https://laubgz.github.io/tienda-gebe/)
 
 ## Code scaffolding
 
